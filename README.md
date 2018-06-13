@@ -1,7 +1,7 @@
 # WeeNote
 Electron powered note app
 
-When prject is "done" it will contain:
+When project is "done" it will contain:
 - Server [node.js script]
 - Desktop client
 - Mobile client
