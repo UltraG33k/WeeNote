@@ -1,0 +1,19 @@
+{
+  "name": "weenote",
+  "version": "0.0.1",
+  "description": "Electron powered note app",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [
+    "note",
+    "electron",
+    "desktop"
+  ],
+  "author": "Martin Bille Broberg",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
